@@ -1,0 +1,5 @@
+D:\GithubProjects\SnakeConsoleGame\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.csprojResolveAssemblyReference.cache
+D:\GithubProjects\SnakeConsoleGame\ConsoleSnake\ConsoleSnake\bin\Debug\ConsoleSnake.exe
+D:\GithubProjects\SnakeConsoleGame\ConsoleSnake\ConsoleSnake\bin\Debug\ConsoleSnake.pdb
+D:\GithubProjects\SnakeConsoleGame\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.exe
+D:\GithubProjects\SnakeConsoleGame\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.pdb

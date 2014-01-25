@@ -1,0 +1,3 @@
+Player1                  0 points
+Player2                  0 points
+Player3                  0 points
